@@ -1,0 +1,169 @@
+.title {
+  font-size: 39;
+  color: #ffffff;
+  opacity: 0.95;
+  font-family: Helvetica;
+  position: absolute;
+  top: 30px;
+  left: 60px;
+}
+.home {
+  font-size: 20px;
+  color: rgb(201, 201, 201);
+  opacity: 0.95;
+  font-family: Helvetica;
+  position: absolute;
+  top: 30px;
+  right: 450px;
+}
+.survey {
+  font-size: 20px;
+  color: rgb(201, 201, 201);
+  opacity: 0.95;
+  font-family: Helvetica;
+  position: absolute;
+  top: 30px;
+  right: 330px;
+  margin-left: 90px;
+}
+.workouts {
+  font-size: 20px;
+  color: rgb(201, 201, 201);
+  opacity: 0.95;
+  font-family: Helvetica;
+  position: absolute;
+  top: 30px;
+  right: 190px;
+}
+.meals {
+  font-size: 20px;
+  color: rgb(201, 201, 201);
+  opacity: 0.95;
+  font-family: Helvetica;
+  position: absolute;
+  top: 30px;
+  right: 80px;
+}
+.quoteRect {
+  height: 100px;
+  width: 650px;
+  background-color: rgb(39, 35, 35);
+  position: absolute;
+  top: 150px;
+  right: 0px;
+}
+.quote {
+  font-size: 40px;
+  color: rgb(201, 201, 201);
+  opacity: 0.95;
+  font-family: Helvetica;
+  position: absolute;
+  top: 135px;
+  right: 120px;
+  font-weight: bold;
+}
+.mealRes {
+  font-size: 20px;
+  color: rgb(201, 201, 201);
+  opacity: 0.95;
+  font-family: Helvetica;
+  position: absolute;
+  top: 165px;
+  left: 120px;
+  font-weight: normal;
+}
+.calorieyes {
+  font-size: 30px;
+  color: rgb(201, 201, 201);
+  opacity: 0.95;
+  font-family: Helvetica;
+  position: absolute;
+  top: 200px;
+  left: 120px;
+}
+.mealRect {
+  height: 2px;
+  width: 150px;
+  background-color: rgb(188, 120, 61);
+  opacity: 0.75;
+  position: absolute;
+  top: 210px;
+  left: 120px;
+}
+.section2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+  height: 100vh;
+}
+.protein {
+  font-size: 15px;
+  color: rgb(201, 201, 201);
+  opacity: 0.95;
+  font-family: Helvetica;
+  position: absolute;
+  top: 325px;
+  left: 100px;
+  font-weight: normal;
+  text-decoration: none;
+  line-height: 2em;
+}
+.fruits {
+  font-size: 15px;
+  color: rgb(201, 201, 201);
+  opacity: 0.95;
+  font-family: Helvetica;
+  position: absolute;
+  top: 325px;
+  left: 725px;
+  font-weight: normal;
+  text-decoration: none;
+  line-height: 2em;
+}
+.vegetables {
+  font-size: 15px;
+  color: rgb(201, 201, 201);
+  opacity: 0.95;
+  font-family: Helvetica;
+  position: absolute;
+  top: 325px;
+  left: 450px;
+  font-weight: normal;
+  text-decoration: none;
+  line-height: 2em;
+}
+.snacks {
+  font-size: 15px;
+  color: rgb(201, 201, 201);
+  opacity: 0.95;
+  font-family: Helvetica;
+  position: absolute;
+  top: 325px;
+  left: 950px;
+  font-weight: normal;
+  text-decoration: none;
+  line-height: 2em;
+}
+.grains {
+  font-size: 15px;
+  color: rgb(201, 201, 201);
+  opacity: 0.95;
+  font-family: Helvetica;
+  position: absolute;
+  top: 325px;
+  left: 1200px;
+  font-weight: normal;
+  text-decoration: none;
+  line-height: 2em;
+}
+em {
+  font-size: 20px;
+  font-style: normal;
+  color: rgb(188, 120, 61);
+}
+.style {
+  background-color: rgb(43, 41, 41);
+}

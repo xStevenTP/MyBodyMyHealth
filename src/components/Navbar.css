@@ -1,0 +1,101 @@
+li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.title {
+    font-size: 39;
+    color: #ffffff;
+    opacity: 0.95;
+    font-family: Helvetica;
+    position: absolute;
+    top: 20px;
+    left: 40px;
+}
+.home {
+    font-size: 35;
+    color: rgb(201, 201, 201);
+    opacity: 0.95;
+    font-family: Helvetica;
+    position: absolute;
+    top: 20px;
+    right: 350px;
+    text-decoration: none;
+}
+  .survey {
+    font-size: 35;
+    color: rgb(201, 201, 201);
+    opacity: 0.95;
+    font-family: Helvetica;
+    position: absolute;
+    top: 20px;
+    right: 260px;
+    margin-left: 90px;
+    text-decoration: none;
+  }
+  .workouts {
+    font-size: 35;
+    color: rgb(201, 201, 201);
+    opacity: 0.95;
+    font-family: Helvetica;
+    position: absolute;
+    top: 20px;
+    right: 148px;
+    text-decoration: none;
+  }
+  .meals {
+    font-size: 35;
+    color: rgb(201, 201, 201);
+    opacity: 0.95;
+    font-family: Helvetica;
+    position: absolute;
+    top: 20px;
+    right: 70px;
+    text-decoration: none;
+  }
+  .welcome {
+    font-size: 50;
+    color: rgb(201, 201, 201);
+    opacity: 0.95;
+    font-family: Helvetica;
+    position: absolute;
+    top: 165px;
+    left: 200px;
+    font-weight: bold;
+  }
+  .bottomRect {
+    height: 150px;
+    width: 1920px;
+    background-color: rgb(43, 38, 38);
+    position: absolute;
+    bottom: 0px;
+  }
+  .welcomeRect {
+    height: 2px;
+    width: 100px;
+    background-color: rgb(188, 120, 61);
+    opacity: 0.75;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+  }
+  .button {
+    position: absolute;
+    bottom: 50px;
+    right: 70px;
+    height: 121;
+    width: 328;
+  }
+  .title {
+    font-size: 39;
+    color: #ffffff;
+    opacity: 0.95;
+    font-family: Helvetica;
+    position: absolute;
+    top: 20px;
+    left: 40px;
+  }
+
+div{
+    background-color: rgb(43, 41, 41)
+  }

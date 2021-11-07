@@ -1,0 +1,143 @@
+.quote {
+  font-size: 50px;
+  color: rgb(201, 201, 201);
+  opacity: 0.95;
+  font-family: Helvetica;
+  position: absolute;
+  top: 165px;
+  right: 100px;
+  font-weight: bold;
+}
+.surveyRect {
+  height: 580px;
+  width: 755px;
+  background-color: rgb(39, 35, 35);
+  position: absolute;
+  bottom: 50px;
+  left: 75px;
+  border-radius: 40px;
+}
+.sexBox {
+  position: absolute;
+  top: 175px;
+  left: 500px;
+  border-radius: 5px;
+}
+.weightBox {
+  position: absolute;
+  top: 275px;
+  left: 500px;
+  border-radius: 5px;
+}
+.heightBox {
+  position: absolute;
+  top: 375px;
+  left: 500px;
+  border-radius: 5px;
+}
+.goalBox {
+  position: absolute;
+  top: 475px;
+  left: 500px;
+  border-radius: 5px;
+}
+.muscleBox {
+  position: absolute;
+  top: 575px;
+  left: 500px;
+  border-radius: 5px;
+}
+.button {
+  position: absolute;
+  bottom: 50px;
+  right: 70px;
+  height: 121;
+  width: 328;
+}
+.sex {
+  font-size: 20px;
+  color: rgb(201, 201, 201);
+  opacity: 0.95;
+  font-family: Helvetica;
+  position: absolute;
+  top: 155px;
+  left: 200px;
+}
+.weight2 {
+  font-size: 20px;
+  color: rgb(201, 201, 201);
+  opacity: 0.95;
+  font-family: Helvetica;
+  position: absolute;
+  top: 255px;
+  left: 200px;
+}
+.height {
+  font-size: 20px;
+  color: rgb(201, 201, 201);
+  opacity: 0.95;
+  font-family: Helvetica;
+  position: absolute;
+  top: 355px;
+  left: 200px;
+}
+.goal {
+  font-size: 20px;
+  color: rgb(201, 201, 201);
+  opacity: 0.95;
+  font-family: Helvetica;
+  position: absolute;
+  top: 455px;
+  left: 200px;
+}
+.muscle {
+  font-size: 20px;
+  color: rgb(201, 201, 201);
+  opacity: 0.95;
+  font-family: Helvetica;
+  position: absolute;
+  top: 555px;
+  left: 200px;
+}
+.getstart {
+  background-color: rgb(188, 120, 61);
+  color: rgb(299, 299, 299);
+  font-size: 40;
+  background-size: 100;
+  padding: 12px 20px;
+  border-radius: 15px;
+  border: 2px solid rgb(43, 41, 41);
+  height: 50px;
+  width: 150px;
+  text-decoration: none;
+}
+body {
+  background-color: rgb(43, 41, 41);
+}
+select {
+  appearance: none;
+  outline: 0;
+  background: rgb(201, 201, 201);
+  background-image: none;
+  width: 100%;
+  height: 100%;
+  color: black;
+  cursor: pointer;
+  border: 1px solid black;
+  border-radius: 3px;
+}
+.select {
+  position: relative;
+  display: block;
+  width: 6em;
+  height: 2em;
+  line-height: 3;
+  overflow: hidden;
+  border-radius: 0.25em;
+  padding-bottom: 10px;
+}
+
+input {
+  padding: 10px 10px;
+  background: rgb(201, 201, 201);
+}
