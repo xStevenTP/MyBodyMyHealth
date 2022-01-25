@@ -14,12 +14,6 @@ return (
         <li>
             <Link to = "/survey" class = "survey">survey</Link>
         </li>
-        <li>
-            <Link to = "/workouts"class = "workouts">workouts</Link>
-        </li>
-        <li>
-            <Link to = "/meals" class = "meals">meals</Link>
-        </li>
     </div>
   );
 };

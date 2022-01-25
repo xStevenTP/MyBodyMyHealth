@@ -28,17 +28,15 @@ const Workouts = () =>{
   useEffect(() => {
     async function getData () {
         const user = await app.logIn(Realm.Credentials.anonymous())
-        //const credentials = Realm.Credentials.anonymous();
-        //await app.logIn(credentials);
       }
       getData();
   }, [])
   //const credentials = Realm.Credentials.anonymous();
   //app.logIn(credentials);
-  const client = app.currentUser.mongoClient('mongodb-atlas')
+  //const client = app.currentUser.mongoClient('mongodb-atlas')
   const [wk, setWk] = useState([])
   const [loading, setLoading] = useState(true)
-  
+  /*
   useEffect(() => {
 	  async function getData () {
     	//...
@@ -52,6 +50,7 @@ const Workouts = () =>{
         getData();
     }
   }, [loading])
+  */
   var wplan = 0
   for(let i = 0; i < wplans.length; i++){
     if (wplans[i][0] === muscle){
